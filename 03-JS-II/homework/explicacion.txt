@@ -1,0 +1,10 @@
+for
+    Se utiliza como un ciclo, para esto, se requieren 3 valores para dicho ciclo:
+    1. El valor en donde inicia el ciclo
+    2. El Valor máximo del ciclo (tope)
+    3. Saber si incrementará de uno por uno o más.
+&&, ||, !
+    El conjunto de símbolos && significan que s[i se agrega en una condicional, 2 condiciones
+    deben de cumplirse.
+    || significa que una condicion o la otra.
+    ! significa que debe de ser diferente de
