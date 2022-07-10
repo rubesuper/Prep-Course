@@ -1,0 +1,17 @@
+Variables
+    Las variables son palabras o bien una letra (no pueden ser numeros), que tienen un valor o van a tener un valor,
+    estas se utilizan para poder mejorar el tiempo de programación, ya que en ocasiones los programas tienen variables
+    no estaticas, y sus valores son reemplazados constantemente.
+Strings
+    Los strings son cadenas de caracteres o bien bloques de texto (son declarados como una variable), desde una letra
+    hasta una cadena de multiples palabras.
+Funciones (argumentos, return)
+    Una funcion se utiliza para que el programa pueda realizar una acción en específico, ya sea una operación matemática,
+    o bien asignarle un valor a una variable, como ejemplo.
+    Un Argumento es un valor que se pasa a un parametro de la función al llamar a la función.
+    Return es el resultado que arroja la funcion.
+Declaraciones if
+    Son condicionales, las cuales solamente se ejecutan sí y solo sí se cumplen las condiciones establecidas en el programa.
+Valores booleanos (true, false)
+    Los valores booleanos pueden entenderse como variables que tienen como finalidad en dar un resultado como 1 o 0, o bien,
+    Verdadero o Falso.
